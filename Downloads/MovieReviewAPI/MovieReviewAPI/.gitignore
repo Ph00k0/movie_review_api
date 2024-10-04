@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+movie-review-env/
+db.sqlite3
